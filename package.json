@@ -1,0 +1,19 @@
+{
+  "name": "testing-suomi.fi-with-playwright-abeg",
+  "version": "1.0.0",
+  "description": "Testing the Suomi.fi website with Playwright",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx playwright test --project=firefox"
+  },
+  "keywords": ["playwright", "visual-regression", "testing"],
+  "author": "abeg",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.48.1",
+    "@types/node": "^22.7.9"
+  },
+  "dependencies": {
+    "jsdom": "^25.0.1"
+  }
+}

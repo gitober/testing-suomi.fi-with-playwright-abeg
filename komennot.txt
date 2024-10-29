@@ -1,0 +1,9 @@
+npx playwright install
+
+individual testing:
+npx playwright test tests/navigation-visual-regression.spec.js
+npx playwright test tests/address-validation.spec.js
+npx playwright test tests/expander-elements.spec.js
+
+all tests:
+npx playwright test
