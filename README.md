@@ -1,6 +1,14 @@
-# Project Instructions
+## Suomi.fi Website Testing with Playwright
+Group project for the User-Centered Design course at Metropolia University of Applied Sciences. The project involves testing the Suomi.fi website using Playwright.
 
-Follow these steps to set up and run tests on the Suomi.fi website using Playwright.
+### Group Members
+- Anni Kannisto
+- Birgitta Öberg
+- Eetu Mäntylä
+- George Chirikov
+
+
+### Follow these steps to set up and run tests on the Suomi.fi website using Playwright:
 
 ## 1. Clone this Repository
 First, clone this repository to your local machine with the following command:
